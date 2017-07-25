@@ -1,9 +1,9 @@
 package main // github.com/ivucica/drone-test
 
 import (
-  "fmt"
+    "fmt"
 )
 
 func main() {
-  fmt.Println("hello world")
+    fmt.Println("hello world")
 }
